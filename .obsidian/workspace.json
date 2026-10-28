@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "a9e112b7077f9ccb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9843ce7600496048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "761f8268c82987eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BioPunkModpack/Машины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Машины"
+            }
+          },
+          {
+            "id": "34c5d01448f801c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BioPunkModpack/Заражение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Заражение"
+            }
+          },
+          {
+            "id": "fc84115d37e85bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BioPunkModpack/Сюжет/Акты сюжета/АКТ 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "АКТ 0"
+            }
+          },
+          {
+            "id": "268e425922051c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BioPunkModpack/Локации/Стартовая локация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Стартовая локация"
+            }
+          },
+          {
+            "id": "b0403770cdc21883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BioPunkModpack/Мир.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мир"
+            }
+          },
+          {
+            "id": "a1780c9412cec46e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Доска задач.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Доска задач"
+            }
+          },
+          {
+            "id": "4937cc60eba31ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BioPunkModpack/Хранилки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Хранилки"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fd3ea6d5e1a943c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e8084310466de78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a55333e5583ea7ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "57c47e109ae134e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "47b3c957819d9f34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcef2038f87988ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b0380bbd1846c1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b17aa087598c54f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сделка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Сделка"
+            }
+          },
+          {
+            "id": "fc3c394dfd589524",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сделка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Сделка"
+            }
+          },
+          {
+            "id": "25411bd1a8a24cb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4de507e57037465c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "a59ccb0a35cab6a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сделка.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Сделка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "a1780c9412cec46e",
+  "lastOpenFiles": [
+    "BioPunkModpack/Сюжет/Сюжетные ресурсы.md",
+    "Без названия.canvas",
+    "Без названия 1.base",
+    "Без названия.base",
+    "BioPunkModpack/Механики/Заражение.md",
+    "BioPunkModpack/Мир.md",
+    "BioPunkModpack/Механики/Оружие.md",
+    "BioPunkModpack/Сюжет/Проект X.md",
+    "BioPunkModpack/Сюжет/Акты сюжета/АКТ 0.md",
+    "BioPunkModpack/Механики/Технологии.md",
+    "BioPunkModpack/Механики/Система событий.md",
+    "BioPunkModpack/Механики/Машины.md",
+    "BioPunkModpack/Механики/Лекарства.md",
+    "BioPunkModpack/Механики/Инструменты.md",
+    "BioPunkModpack/Механики/Зараженные блоки.md",
+    "BioPunkModpack/Механики/Еда.md",
+    "BioPunkModpack/Механики/Города.md",
+    "BioPunkModpack/Локации/!Сюжетные локации.md",
+    "BioPunkModpack/Локации/Центр заражения.md",
+    "BioPunkModpack/Локации/Стартовая локация.md",
+    "BioPunkModpack/Локации/Исследовательский центр проекта X.md",
+    "BioPunkModpack/Локации/База повстанцев.md",
+    "Доска задач.md",
+    "!Доска задач.md",
+    "BioPunkModpack/Механики/Хранилки.md",
+    "BioPunkModpack/Механики/Электроника.md",
+    "NPC.md",
+    "BioPunkModpack/Механики",
+    "BioPunkModpack/Сюжет/Акты сюжета",
+    "BioPunkModpack/Локации",
+    "BioPunkModpack/Сюжет",
+    "BioPunkModpack",
+    "Сделка.md"
+  ]
+}
